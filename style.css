@@ -1,0 +1,40 @@
+html{
+    background-color: #191919;
+}
+.about{
+    font-family:Anek Kannada, sans-serif;
+    color:#F3EEEA;
+    text-align: center;
+    width:50%;
+    margin-left: 25%;
+    border: #E88D67 2px solid;
+    border-radius: 10px;
+    
+    
+    
+    
+}
+img{
+    width: 25%;
+    height: 25%;
+    border-radius: 100%;;
+    margin-right: 70%;
+    margin-bottom: 30%;
+    
+    
+}
+p{
+        margin-left: 30%;
+       margin-top: -50%;
+       padding-bottom: 20px;
+       padding-bottom: 50px;
+       
+}
+.myprojects{
+    font-family:Anek Kannada, sans-serif;
+    color:#F3EEEA;
+    text-align: center;
+    width:50%;
+    margin-left: 25%;
+    
+}
